@@ -1,0 +1,93 @@
+2025-04-16 22:13:11,474 - INFO - Model eðitim süreci baþlatýlýyor...
+2025-04-16 22:13:11,475 - INFO - Veri seti yükleniyor...
+2025-04-16 22:13:14,839 - INFO - Veri seti boyutu: (1084909, 12)
+2025-04-16 22:13:14,839 - INFO - Eðitim seti boyutu: (867927, 3)
+2025-04-16 22:13:14,849 - INFO - Test seti boyutu: (216982, 3)
+2025-04-16 22:13:14,867 - INFO - Model eðitimi baþlýyor...
+2025-04-16 22:13:47,298 - INFO - Model eðitimi tamamlandý. Süre: 32.43 saniye
+2025-04-16 22:13:47,299 - INFO - Model deðerlendirmesi baþlýyor...
+2025-04-16 22:13:48,178 - INFO - Mean Squared Error (MSE): 831311123802.12
+2025-04-16 22:13:48,178 - INFO - Root Mean Squared Error (RMSE): 911762.65
+2025-04-16 22:13:48,178 - INFO - Mean Absolute Error (MAE): 254726.50
+2025-04-16 22:13:48,178 - INFO - R2 Score: 0.25
+2025-04-16 22:13:48,178 - INFO - Precision: 0.52
+2025-04-16 22:13:48,178 - INFO - Recall: 0.53
+2025-04-16 22:13:48,178 - INFO - F1 Score: 0.50
+2025-04-16 22:13:50,362 - INFO - Model ve encoder'lar kaydediliyor...
+2025-04-16 22:13:50,903 - INFO - Model ve encoder'lar baþarýyla kaydedildi
+2025-04-16 22:13:50,903 - INFO - Model eðitim süreci baþarýyla tamamlandý
+2025-04-16 22:22:05,910 - INFO - Model eðitim süreci baþlatýlýyor...
+2025-04-16 22:22:05,910 - INFO - Veri seti yükleniyor...
+2025-04-16 22:22:09,407 - INFO - Veri seti boyutu: (1084909, 12)
+2025-04-16 22:22:09,407 - INFO - Eðitim seti boyutu: (867927, 3)
+2025-04-16 22:22:09,407 - INFO - Test seti boyutu: (216982, 3)
+2025-04-16 22:22:09,427 - INFO - Model eðitimi baþlýyor...
+2025-04-16 22:22:44,573 - INFO - Model eðitimi tamamlandý. Süre: 35.14 saniye
+2025-04-16 22:22:44,573 - INFO - Model deðerlendirmesi baþlýyor...
+2025-04-16 22:22:45,495 - INFO - Mean Squared Error (MSE): 831311123802.12
+2025-04-16 22:22:45,495 - INFO - Root Mean Squared Error (RMSE): 911762.65
+2025-04-16 22:22:45,496 - INFO - Mean Absolute Error (MAE): 254726.50
+2025-04-16 22:22:45,496 - INFO - R2 Score: 0.25
+2025-04-16 22:22:45,497 - INFO - Precision: 0.52
+2025-04-16 22:22:45,497 - INFO - Recall: 0.53
+2025-04-16 22:22:45,497 - INFO - F1 Score: 0.50
+2025-04-16 22:22:47,599 - INFO - Model ve encoder'lar kaydediliyor...
+2025-04-16 22:22:48,151 - INFO - Model ve encoder'lar baþarýyla kaydedildi
+2025-04-16 22:22:48,151 - INFO - Model eðitim süreci baþarýyla tamamlandý
+2025-04-16 22:32:56,448 - INFO - Model eðitim süreci baþlatýlýyor...
+2025-04-16 22:32:56,448 - INFO - Veri seti yükleniyor...
+2025-04-16 22:33:00,739 - INFO - Veri seti boyutu: (1084909, 12)
+2025-04-16 22:33:00,740 - INFO - Eðitim seti boyutu: (867927, 8)
+2025-04-16 22:33:00,740 - INFO - Test seti boyutu: (216982, 8)
+2025-04-16 22:33:00,740 - INFO - Kullanýlan özellikler: ['state', 'city', 'street', 'status', 'bed', 'bath', 'acre_lot', 'house_size']
+2025-04-16 22:33:00,763 - INFO - Model eðitimi baþlýyor...
+2025-04-16 22:35:42,267 - INFO - Model eðitimi tamamlandý. Süre: 161.50 saniye
+2025-04-16 22:35:42,267 - INFO - Model deðerlendirmesi baþlýyor...
+2025-04-16 22:35:45,613 - INFO - Mean Squared Error (MSE): 458245694224.37
+2025-04-16 22:35:45,613 - INFO - Root Mean Squared Error (RMSE): 676938.47
+2025-04-16 22:35:45,613 - INFO - Mean Absolute Error (MAE): 167492.88
+2025-04-16 22:35:45,617 - INFO - R2 Score: 0.59
+2025-04-16 22:35:45,617 - INFO - Precision: 0.67
+2025-04-16 22:35:45,617 - INFO - Recall: 0.67
+2025-04-16 22:35:45,618 - INFO - F1 Score: 0.66
+2025-04-16 22:35:47,775 - INFO - Model ve encoder'lar kaydediliyor...
+2025-04-16 22:35:52,108 - INFO - Model ve encoder'lar baþarýyla kaydedildi
+2025-04-16 22:35:52,108 - INFO - Model eðitim süreci baþarýyla tamamlandý
+2025-04-16 22:37:18,113 - INFO - Model eðitim süreci baþlatýlýyor...
+2025-04-16 22:37:18,113 - INFO - Veri seti yükleniyor...
+2025-04-16 22:37:22,273 - INFO - Veri seti boyutu: (1084909, 12)
+2025-04-16 22:37:22,273 - INFO - Eðitim seti boyutu: (867927, 8)
+2025-04-16 22:37:22,274 - INFO - Test seti boyutu: (216982, 8)
+2025-04-16 22:37:22,274 - INFO - Kullanýlan özellikler: ['state', 'city', 'street', 'status', 'bed', 'bath', 'acre_lot', 'house_size']
+2025-04-16 22:37:22,295 - INFO - Model eðitimi baþlýyor...
+2025-04-16 22:39:44,800 - INFO - Model eðitimi tamamlandý. Süre: 142.51 saniye
+2025-04-16 22:39:44,800 - INFO - Model deðerlendirmesi baþlýyor...
+2025-04-16 22:39:47,843 - INFO - Mean Squared Error (MSE): 458245694224.37
+2025-04-16 22:39:47,843 - INFO - Root Mean Squared Error (RMSE): 676938.47
+2025-04-16 22:39:47,843 - INFO - Mean Absolute Error (MAE): 167492.88
+2025-04-16 22:39:47,843 - INFO - R2 Score: 0.59
+2025-04-16 22:39:47,843 - INFO - Precision: 0.67
+2025-04-16 22:39:47,843 - INFO - Recall: 0.67
+2025-04-16 22:39:47,843 - INFO - F1 Score: 0.66
+2025-04-16 22:39:49,980 - INFO - Model ve encoder'lar kaydediliyor...
+2025-04-16 22:39:54,850 - INFO - Model ve encoder'lar baþarýyla kaydedildi
+2025-04-16 22:39:54,850 - INFO - Model eðitim süreci baþarýyla tamamlandý
+2025-04-16 22:46:06,877 - INFO - Model eðitim süreci baþlatýlýyor...
+2025-04-16 22:46:06,878 - INFO - Veri seti yükleniyor...
+2025-04-16 22:46:10,853 - INFO - Veri seti boyutu: (1084909, 12)
+2025-04-16 22:46:10,854 - INFO - Eðitim seti boyutu: (867927, 8)
+2025-04-16 22:46:10,854 - INFO - Test seti boyutu: (216982, 8)
+2025-04-16 22:46:10,854 - INFO - Kullanýlan özellikler: ['state', 'city', 'street', 'status', 'bed', 'bath', 'acre_lot', 'house_size']
+2025-04-16 22:46:10,879 - INFO - Model eðitimi baþlýyor...
+2025-04-16 22:48:47,411 - INFO - Model eðitimi tamamlandý. Süre: 156.53 saniye
+2025-04-16 22:48:47,411 - INFO - Model deðerlendirmesi baþlýyor...
+2025-04-16 22:48:50,665 - INFO - Mean Squared Error (MSE): 458935194005.87
+2025-04-16 22:48:50,665 - INFO - Root Mean Squared Error (RMSE): 677447.56
+2025-04-16 22:48:50,666 - INFO - Mean Absolute Error (MAE): 167491.47
+2025-04-16 22:48:50,666 - INFO - R2 Score: 0.59
+2025-04-16 22:48:50,666 - INFO - Precision: 0.67
+2025-04-16 22:48:50,666 - INFO - Recall: 0.67
+2025-04-16 22:48:50,666 - INFO - F1 Score: 0.66
+2025-04-16 22:48:52,927 - INFO - Model ve encoder'lar kaydediliyor...
+2025-04-16 22:48:56,774 - INFO - Model ve encoder'lar baþarýyla kaydedildi
+2025-04-16 22:48:56,775 - INFO - Model eðitim süreci baþarýyla tamamlandý
